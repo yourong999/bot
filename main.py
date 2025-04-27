@@ -17,7 +17,7 @@ def run_flask():
 Thread(target=run_flask).start()
 
 # TOKEN Telegram
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "7285284168:AAFnQ78AqqTISgul4N_5V_oiaQYhFmuPwUI"
 
 # --- Hàm lưu chat_id không trùng ---
 def save_chat_id(chat_id):
